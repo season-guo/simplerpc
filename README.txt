@@ -1,0 +1,1 @@
+A simple rpc practice with Go
